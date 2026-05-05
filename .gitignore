@@ -14,9 +14,9 @@ __pycache__/
 *.so
 .Python
 
-# Output files
-graph_visualization.png
-benchmark_results.json
+# Output files (keep for submission)
+# graph_visualization.png
+# benchmark_results.json
 
 # IDE
 .vscode/

@@ -1,6 +1,6 @@
 # Báo Cáo Phân Tích: GraphRAG vs Flat RAG
 
-**Học viên:** Phạm Việt Hoang  
+**Học viên:** Phạm Việt Hoàng  
 **Mã học viên:** 2A202600274  
 **Bài Lab:** Day 19 - Xây dựng hệ thống GraphRAG với Tech Company Corpus  
 **Ngày:** 05/05/2026
